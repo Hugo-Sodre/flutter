@@ -1,0 +1,8 @@
+{
+    "name": "Flutter (Pixel 2 API 30)",
+    "request": "launch",
+    "type": "dart",
+    "flutterMode": "debug",
+    "program": "lib/main.dart", // Change this to your main file if it's different
+    "deviceId": "emulator-5554" // Ensure this matches your emulator's ID
+}
